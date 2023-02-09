@@ -26,7 +26,6 @@
 [![QEMU](https://img.shields.io/static/v1?label=&message=QEMU&logo=qemu&color=000000&logoColor=FFFFFF)]()
 <br>
 [![GTK](https://img.shields.io/static/v1?label=&message=GTK4&logo=gtk&color=7fe619&logoColor=FFFFFF)]()
-<br>
 [![Unity](https://img.shields.io/static/v1?label=&message=Unity&logo=unity&color=000000&logoColor=FFFFFF)]()
 <br>
 [![Numpy](https://img.shields.io/static/v1?label=&message=Numpy&logo=numpy&color=4dabcf&logoColor=FFFFFF)]()
@@ -38,6 +37,11 @@
 [![Git](https://img.shields.io/static/v1?label=&message=Git&logo=git&color=f05134&logoColor=FFFFFF)]()
 <br>
 [![Kali](https://img.shields.io/static/v1?label=&message=Kali&logo=kalilinux&color=2d90cc&logoColor=FFFFFF)]()
+[![HTB](https://img.shields.io/static/v1?label=&message=HTB&logo=hackthebox&color=1e2125&logoColor=8bc53f)]()
 [![OWASP](https://img.shields.io/static/v1?label=&message=OWASP&logo=owasp&color=000000&logoColor=FFFFFF)]()
 [![ELK](https://img.shields.io/static/v1?label=&message=ELK&logo=elastic&color=3f928a&logoColor=FFFFFF)]()
+[![Snort](https://img.shields.io/static/v1?label=&message=Snort&logo=snort&color=dfa2a5&logoColor=FFFFFF)]()
 <br>
+[![VSCode](https://img.shields.io/static/v1?label=&message=VS%20Code&logo=visualstudiocode&color=ffffff&logoColor=23aaf2)]()
+[![XCode](https://img.shields.io/static/v1?label=&message=Xcode&logo=xcode&color=000000&logoColor=1668e0)]()
+[![NVim](https://img.shields.io/static/v1?label=&message=NVim&logo=neovim&color=4b973a&logoColor=ffffff)]()
