@@ -5,7 +5,7 @@
 [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&logo=cplusplus&color=1b59ae&logoColor=FFFFFF)]()
 [![C#](https://img.shields.io/static/v1?label=&message=C%23&logo=csharp&color=690081&logoColor=FFFFFF)]()
 [![Python](https://img.shields.io/static/v1?label=&message=Python&logo=python&color=3C78A9&logoColor=FFFFFF)]()
-[![Java](https://img.shields.io/static/v1?label=&message=Java&logo=java&color=e92e2c&logoColor=FFFFFF)]()
+[![Java](https://img.shields.io/static/v1?label=&message=%E2%98%95%20Java&logo=java&color=e92e2c&logoColor=FFFFFF)]()
 [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&logo=kotlin&color=f98909&logoColor=FFFFFF)]()
 [![Swift](https://img.shields.io/static/v1?label=&message=Swift&logo=swift&color=ff473c&logoColor=FFFFFF)]()
 [![PHP](https://img.shields.io/static/v1?label=&message=PHP&logo=php&color=6c7eb7&logoColor=FFFFFF)]()
@@ -40,7 +40,7 @@
 [![HTB](https://img.shields.io/static/v1?label=&message=HTB&logo=hackthebox&color=1e2125&logoColor=8bc53f)]()
 [![OWASP](https://img.shields.io/static/v1?label=&message=OWASP&logo=owasp&color=000000&logoColor=FFFFFF)]()
 [![ELK](https://img.shields.io/static/v1?label=&message=ELK&logo=elastic&color=3f928a&logoColor=FFFFFF)]()
-[![Snort](https://img.shields.io/static/v1?label=&message=Snort&logo=snort&color=dfa2a5&logoColor=FFFFFF)]()
+[![Snort](https://img.shields.io/static/v1?label=&message=%F0%9F%90%BD%20Snort&logo=snort&color=dfa2a5&logoColor=FFFFFF)]()
 <br>
 [![VSCode](https://img.shields.io/static/v1?label=&message=VS%20Code&logo=visualstudiocode&color=ffffff&logoColor=23aaf2)]()
 [![XCode](https://img.shields.io/static/v1?label=&message=Xcode&logo=xcode&color=000000&logoColor=1668e0)]()
