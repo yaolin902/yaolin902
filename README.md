@@ -21,7 +21,7 @@
 [![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&logo=postgresql&color=316192&logoColor=FFFFFF)]()
 <br>
 [![AWS](https://img.shields.io/static/v1?label=&message=AWS&logo=amazonaws&color=f69400&logoColor=FFFFFF)]()
-[![GCP](https://img.shields.io/static/v1?label=&message=GCP&logo=gcp&color=4986f2&logoColor=FFFFFF)]()
+[![GCP](https://img.shields.io/static/v1?label=&message=%E2%AC%A1%20GCP&logo=gcp&color=4986f2&logoColor=FFFFFF)]()
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&logo=docker&color=2396ed&logoColor=FFFFFF)]()
 [![QEMU](https://img.shields.io/static/v1?label=&message=QEMU&logo=qemu&color=000000&logoColor=FFFFFF)]()
 <br>
