@@ -19,6 +19,7 @@
 <br>
 [![Flask](https://img.shields.io/static/v1?label=&message=Flask&logo=flask&color=000000&logoColor=FFFFFF)]()
 [![Jina](https://img.shields.io/static/v1?label=&message=Flask&logo=jinja&color=5b5b5c&logoColor=FFFFFF)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&logo=mysql&color=00618b&logoColor=FFFFFF)]()
 [![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&logo=postgresql&color=316192&logoColor=FFFFFF)]()
 <br>
@@ -37,6 +38,7 @@
 [![Linux](https://img.shields.io/static/v1?label=&message=Linux&logo=linux&color=fabf00&logoColor=FFFFFF)]()
 [![Bash](https://img.shields.io/static/v1?label=&message=Bash&logo=gnubash&color=4bf121&logoColor=FFFFFF)]()
 [![Git](https://img.shields.io/static/v1?label=&message=Git&logo=git&color=f05134&logoColor=FFFFFF)]()
+[![Nix-shell](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff)](#)
 <br>
 [![Kali](https://img.shields.io/static/v1?label=&message=Kali&logo=kalilinux&color=2d90cc&logoColor=FFFFFF)]()
 [![HTB](https://img.shields.io/static/v1?label=&message=HTB&logo=hackthebox&color=1e2125&logoColor=8bc53f)]()
@@ -47,3 +49,6 @@
 [![VSCode](https://img.shields.io/static/v1?label=&message=VS%20Code&logo=visualstudiocode&color=ffffff&logoColor=23aaf2)]()
 [![XCode](https://img.shields.io/static/v1?label=&message=Xcode&logo=xcode&color=000000&logoColor=1668e0)]()
 [![NVim](https://img.shields.io/static/v1?label=&message=NVim&logo=neovim&color=4b973a&logoColor=ffffff)]()
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
+<br>
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
