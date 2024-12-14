@@ -18,7 +18,7 @@
 [![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)
 <br>
 [![Flask](https://img.shields.io/static/v1?label=&message=Flask&logo=flask&color=000000&logoColor=FFFFFF)]()
-[![Jinja](https://img.shields.io/static/v1?label=&message=Flask&logo=jinja&color=5b5b5c&logoColor=FFFFFF)]()
+[![Jina](https://img.shields.io/static/v1?label=&message=Flask&logo=jinja&color=5b5b5c&logoColor=FFFFFF)]()
 [![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&logo=mysql&color=00618b&logoColor=FFFFFF)]()
 [![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&logo=postgresql&color=316192&logoColor=FFFFFF)]()
 <br>
