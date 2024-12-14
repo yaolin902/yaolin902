@@ -9,6 +9,8 @@
 [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&logo=kotlin&color=f98909&logoColor=FFFFFF)]()
 [![Swift](https://img.shields.io/static/v1?label=&message=Swift&logo=swift&color=ff473c&logoColor=FFFFFF)]()
 [![PHP](https://img.shields.io/static/v1?label=&message=PHP&logo=php&color=6c7eb7&logoColor=FFFFFF)]()
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)
 <br>
 [![HTML](https://img.shields.io/static/v1?label=&message=HTML&logo=html5&color=fe4c1e&logoColor=FFFFFF)]()
 [![CSS](https://img.shields.io/static/v1?label=&message=CSS&logo=css3&color=0071bf&logoColor=FFFFFF)]()
